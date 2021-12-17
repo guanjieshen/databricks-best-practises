@@ -1,0 +1,1 @@
+# [Best Practise] Delta Lake Storage Configuration
