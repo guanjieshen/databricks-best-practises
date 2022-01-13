@@ -4,7 +4,7 @@ The following is an example directory structure for a Medallion Architecture Dat
 
 
 
-```json
+```
 data_lake_cloud_storage
 │
 ├── bronze_zone (Ingestion Zone)
